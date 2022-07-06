@@ -9,6 +9,6 @@ name = "Darsh";
 isAlive = true;
 
 string fullName = "Darshni Rawat";
-int houseNumber = "90"
+int houseNumber = 2022;
 
 Console.WriteLine($"{name}{age} is he alive {isAlive}");
