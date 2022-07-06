@@ -1,0 +1,5 @@
+C:\Users\mapad\OneDrive\Desktop\Repos\Variables_Exercise\Variables_Exercise\obj\Debug\net6.0\Variables_Exercise.csproj.AssemblyReference.cache
+C:\Users\mapad\OneDrive\Desktop\Repos\Variables_Exercise\Variables_Exercise\obj\Debug\net6.0\Variables_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mapad\OneDrive\Desktop\Repos\Variables_Exercise\Variables_Exercise\obj\Debug\net6.0\Variables_Exercise.AssemblyInfoInputs.cache
+C:\Users\mapad\OneDrive\Desktop\Repos\Variables_Exercise\Variables_Exercise\obj\Debug\net6.0\Variables_Exercise.AssemblyInfo.cs
+C:\Users\mapad\OneDrive\Desktop\Repos\Variables_Exercise\Variables_Exercise\obj\Debug\net6.0\Variables_Exercise.csproj.CoreCompileInputs.cache
